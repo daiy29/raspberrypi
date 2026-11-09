@@ -12181,3 +12181,5 @@ branch.main.merge=refs/heads/main
 origin	https://<personal access token hidden>@github.com/daiy29/raspberrypi.git (push)
 [INFO 2026-11-09_23:44:32] Localfile producing DAG in tml_read_LOCALFILE_step_3_kafka_producetotopic_dag-myawesometmlsolutionml-4a95.py
 [INFO 2026-11-09_23:44:32] Preprocessing DAG in tml_system_step_4_kafka_preprocess_dag-myawesometmlsolutionml-4a95.py
+[INFO 2026-11-09_23:44:37] Predictions DAG in tml_system_step_6_kafka_predictions_dag-myawesometmlsolutionml-4a95.py
+[INFO 2026-11-09_23:44:37] Machine Learning DAG in tml_system_step_5_kafka_machine_learning_dag-myawesometmlsolutionml-4a95.py
