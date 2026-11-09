@@ -12189,3 +12189,74 @@ origin	https://<personal access token hidden>@github.com/daiy29/raspberrypi.git 
 =============================================================
 50a495c63087b8ca9ca137c40717c6585f33df79d50ad3d6c841c1fcd5d17e0f
 [INFO 2026-11-09_23:47:08] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/index.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/index.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:09] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/logs.rst
+[INFO 2026-11-09_23:47:10] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:10] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:10] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:10] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:10] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+sha256:8f4945a5d48c3051cc94eb7e660bbd880de31352b84d95411a7b83cebc485b02
+[INFO 2026-11-09_23:47:14] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:14] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:14] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[INFO 2026-11-09_23:47:15] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:15] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:15] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:15] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:15] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:15] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:15] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:15] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/details.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/logs.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:17] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/kube.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
+[INFO 2026-11-09_23:47:18] DAG 10: Successfully processed inline template criteria tokens for asset: /myawesometmlsolutionml-4a95-ml/docs/source/operating.rst
